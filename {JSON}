@@ -1,0 +1,26 @@
+{8 items
+key:
+4
+updateAuthority:
+"8cSmq6EEkdtgYz2Y7KP4CQfBQ9J8cDfRaSHtqJQgYrg6"
+mint:
+"Fw9aaSgZRKvT7F5m3dUHXkPENTid4a8yBWX9qwL4kxCm"
+data:{4 items
+name:
+"Red Panda "
+symbol:
+"FOXXP"
+uri:
+"https://ipfs.io/ipfs/QmZCrML8QW8qGqM4tpXM9taTELDQXveWH1m6rMtVVgwU1F"
+sellerFeeBasisPoints:
+0
+}
+primarySaleHappened:
+0
+isMutable:
+0
+editionNonce:
+253
+tokenStandard:
+2
+}
